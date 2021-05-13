@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # Manage configurations for the ForgeRock platform. Copies configurations in git to the Docker/ folder
 #    Can optionally export configuration from running products and copy it back to the git /config folder.
 # This script is not supported by ForgeRock.
